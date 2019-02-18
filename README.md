@@ -1,2 +1,2 @@
 # alpine-node-yarn
-Lightweight yarn on node docker image on alpine
+Lightweight yarn docker image on alpine
