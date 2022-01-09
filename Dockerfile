@@ -1,1 +1,1 @@
-FROM skazuki/alpine-node
+FROM skazuki/alpine-node:12
